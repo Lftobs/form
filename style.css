@@ -77,7 +77,7 @@ form input:hover {
     border: 1.5px solid hsl(249, 10%, 26%);
 }
 form input:focus:invalid {
-    background-image: url('icon-error (t).svg');
+    background-image: url('img/icon-error (t).svg');
     background-repeat: no-repeat;
     background-position: right center;
     background-origin: content-box;
